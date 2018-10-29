@@ -1,1 +1,1 @@
-# testing
+Testing using the Selenium framework. 
