@@ -1,4 +1,4 @@
-Testing using the Selenium framework. 
+#Testing using the Selenium framework and Junit
 
 If using linux or windows:
 Download os-specific chrome driver here: https://chromedriver.storage.googleapis.com/index.html?path=2.43/
