@@ -17,7 +17,7 @@ public class RoutineNavigation {
   public static void openBrowser() {
     System.setProperty(
         "webdriver.chrome.driver",
-        ""); //insert index.html path here
+        ""); //insert chromedriver absolute path here
     driver = new ChromeDriver();
     driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
   }
